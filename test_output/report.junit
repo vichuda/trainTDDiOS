@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='CalculatorUITests.xctest' tests='2' failures='0'>
+  <testsuite name='CalculatorUITests.CalculatorUITests' tests='2' failures='0'>
+    <testcase classname='CalculatorUITests.CalculatorUITests' name='testExample' time='17.876'/>
+    <testcase classname='CalculatorUITests.CalculatorUITests' name='testExample' time='16.735'/>
+  </testsuite>
+</testsuites>
